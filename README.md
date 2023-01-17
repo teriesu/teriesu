@@ -4,13 +4,17 @@
 - 🔭 Im actually monkin in my thesis: **Implementation of an artificial neural network for the prediction of parameters associated with non-phonotraumatic hyperfunctional voice.**
 
 
-* 🌱 I've studied [**Mechatronics Engineering**](https://www.umng.edu.co/programas/pregados/ingenieria-mecatronica) in [**UMNG**](https://www.umng.edu.co/inicio) and [**Data science**](https://platzi.com/data-scientist-python/?school=_escuela_escuela-datos_) in  [**Platzi**](https://platzi.com/home)
-
-* 📫 How to reach me:  [**Linkedin Profile**](https://www.linkedin.com/in/santiago-téllez-rincón-ab483a1a1/)
+* 🌱 I studied [**Mechatronics Engineering**](https://www.umng.edu.co/programas/pregados/ingenieria-mecatronica) in [**UMNG**](https://www.umng.edu.co/inicio) and [**Data science**](https://platzi.com/data-scientist-python/?school=_escuela_escuela-datos_) in  [**Platzi**](https://platzi.com/home)
 
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/teriesu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oscar-rodriguez-2b56b719b" height="30" width="40" /></a>
 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
+<a href="https://twitter.com/teriesu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" height="40" width="40" /></a>
+</p>
+
+
 
