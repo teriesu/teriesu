@@ -5,7 +5,7 @@
 
 - 🌱 I studied [**Mechatronics Engineering**](https://www.umng.edu.co/programas/pregados/ingenieria-mecatronica) in [**UMNG**](https://www.umng.edu.co/inicio) and [**Data science**](https://platzi.com/data-scientist-python/?school=_escuela_escuela-datos_) in  [**Platzi**](https://platzi.com/home)
 
-- Languages 💬:
+- 💬 Languages:
     - Spanish - Native
     - English - B2
     - German - A2
