@@ -1,14 +1,20 @@
-<h1 align="center">Hi, I'm Santiago Tellez</h1>
-<h3 align="center">I'm a mechatronics engineer who is interested in data science, artificial intelligence and Machine Learning.</h3>
+<h1 align="center">Hi, I'm Santiago Téllez 👋</h1>
+<h3 align="center">Mechatronics Engineer turned Data Scientist | AI & Machine Learning Enthusiast.</h3>
+--- 
+🔍 **About Me**  
+Data Scientist with 2+ years of experience in machine learning, data processing, and analytics. I have worked on end-to-end pipelines, data labeling for AI training, and dashboard/report automation. Passionate about building high-quality datasets and collaborating across teams to solve real-world problems with data.
+---
 
-- 🔭 I'm actually monkin in my thesis: **Implementation of an artificial neural network for the prediction of parameters associated with non-phonotraumatic hyperfunctional voice.**
+🎓 **Education**  
+**[B.Sc. Mechatronics Engineering](https://www.umng.edu.co/programas/pregados/ingenieria-mecatronica)** – [Universidad Militar Nueva Granada](https://www.umng.edu.co/inicio)  
+- Meritorious Thesis: *Artificial neural network for predicting asymmetries in non-phonotraumatic hyperfunctional voice*
 
-- 🌱 I studied [**Mechatronics Engineering**](https://www.umng.edu.co/programas/pregados/ingenieria-mecatronica) in [**UMNG**](https://www.umng.edu.co/inicio) and [**Data science**](https://platzi.com/data-scientist-python/?school=_escuela_escuela-datos_) in  [**Platzi**](https://platzi.com/home)
+🧠 **Complementary Studies**  
+- Data Science with Python — [Platzi](https://platzi.com/data-scientist-python/?school=_escuela_escuela-datos_)
+---
 
-- 💬 Languages:
-    - Spanish - Native
-    - English - B2
-    - German - A2
+🗣️ **Languages**
+- Spanish (Native) | English (B2) | German (A2)
 
 
 <h2 align="left">👤Connect with me:</h2>
