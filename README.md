@@ -3,6 +3,7 @@
 
 🔍 **About Me**  
 Data Scientist with 2+ years of experience in machine learning, data processing, and analytics. I have worked on end-to-end pipelines, data labeling for AI training, and dashboard/report automation. Passionate about building high-quality datasets and collaborating across teams to solve real-world problems with data.
+
 ---
 
 🎓 **Education**  
