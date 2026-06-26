@@ -15,7 +15,7 @@ Data Scientist with 2+ years of experience in machine learning, data processing,
 ---
 
 🗣️ **Languages**
-- Spanish (Native) | English (B2) | German (B2)
+- Spanish (Native) | English (C1) | German (B2)
 
 
 <h2 align="left">👤Connect with me:</h2>
